@@ -4,12 +4,12 @@
 - Always looking for spice in life, crazy hardworking and armed with unmatched work ethic.
 - Continuously seeks to learn and develop new insights.
   
-## I have a keen perspective on:
+## I have a keen perspective on👁‍🗨:
 - With the rise of digital transformation, understanding cybersecurity has become crucial and developing skills to protect data and system.
 - The implications of blockchain technology extend beyond cryptocurrencies.
 - Cloud technologies are reshaping how we store and access information and improve project scalability.
 
-## Interests:
+## Interests🌐:
 - Cybersecurity, Artificial Intelligence, Machine Learning and Data Analytics
   
 ## Actively expanding my knowledge in 📚:
@@ -18,13 +18,13 @@
 - Data Structure and Algorithms (DSA)
 - Oriented Object Programming (OOPs)
   
-## Aspiring partners for innovative developments:
+## Aspiring partners for innovative developments🤝:
 - [SHREYA YADAV](https://github.com/SHREYA-006)
 - [RIDDHI NAHAR](https://github.com/RIDDHI-01)
   
 ## Unite for impact 📫:
-- [linkdIn]💼:(https://www.linkedin.com/in/priyanshi-nahar-503568274)
-- [E-MAIL]📧: priyanshinahar13@gmail.com
+- [LINKEDIN](https://www.linkedin.com/in/priyanshi-nahar-503568274)💼
+- [E-MAIL](priyanshinahar13@gmail.com)📧
 
 I look forward to synergizing our talents to elevate our skills and promote innovation. 
 
