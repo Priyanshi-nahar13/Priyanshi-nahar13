@@ -18,10 +18,6 @@
 - Data Structure and Algorithms (DSA)
 - Oriented Object Programming (OOPs)
   
-## Aspiring partners for innovative developments🤝:
-- [SHREYA YADAV](https://github.com/SHREYA-006)
-- [RIDDHI NAHAR](https://github.com/RIDDHI-01)
-  
 ## Unite for impact 📫:
 - [LINKEDIN](https://www.linkedin.com/in/priyanshi-nahar-503568274)💼
 - [E-MAIL](priyanshinahar13@gmail.com)📧
