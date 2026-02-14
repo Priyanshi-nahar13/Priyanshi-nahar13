@@ -1,30 +1,57 @@
-# Hi, I’m PRIYANSHI NAHAR
-- Fosters a mindset of exploration and personal growth, with a focus on investing energy in high-yield opportunities.
-- Committed to leveraging analytical skills and a collaborative team approach to enhance technical processes.
-- Always looking for spice in life, crazy hardworking and armed with unmatched work ethic.
-- Continuously seeks to learn and develop new insights.
-  
-## I have a keen perspective on👁‍🗨:
-- With the rise of digital transformation, understanding cybersecurity has become crucial and developing skills to protect data and system.
-- The implications of blockchain technology extend beyond cryptocurrencies.
-- Cloud technologies are reshaping how we store and access information and improve project scalability.
+# Hi, I'm Priyanshi Nahar 
 
-## Interests🌐:
-- Cybersecurity, Artificial Intelligence, Machine Learning and Data Analytics
-  
-## Actively expanding my knowledge in 📚:
-- Foundation of Cybersecurity
-- Hypertext Markup Language (HTML)
-- Data Structure and Algorithms (DSA)
-- Oriented Object Programming (OOPs)
-  
-## Unite for impact 📫:
-- [LINKEDIN](https://www.linkedin.com/in/priyanshi-nahar-503568274)💼
-- [E-MAIL](priyanshinahar13@gmail.com)📧
+🎓 B.Tech CSE (3rd Year) | CGPA: 9.49  
+🔐 AI for Cybersecurity Researcher | NCEPST 2025  
+🤖 AI/ML | Data Science | Computer Vision | LLM Enthusiast  
 
-I look forward to synergizing our talents to elevate our skills and promote innovation. 
+## 🚀 About Me
 
-<!---
-Priyanshi-nahar13/Priyanshi-nahar13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am passionate about Artificial Intelligence, Machine Learning, and Cybersecurity.  
+I love building intelligent systems that solve real-world problems using data-driven approaches.
+
+📌 Research Area: ML-based Anomaly Detection in Network Traffic  
+📌 Interested in: AI, Data Science, Deep Learning, Computer Vision, LLMs  
+
+## 🛠️ Tech Stack
+
+**Languages:**  
+C++ | Python | SQL | HTML | CSS  
+
+**Libraries & Frameworks:**  
+TensorFlow | PyTorch | OpenCV | scikit-learn | Pandas | NumPy | Matplotlib | Seaborn  
+
+**Tools:**  
+Git | GitHub | Jupyter Notebook | VS Code | Raspberry Pi  
+
+## 📂 Featured Projects
+
+### 🏠 Voice-Controlled Home Automation System
+- Built using Raspberry Pi & Python  
+- Implemented speech recognition with Google Speech API  
+- IoT-based smart automation system  
+
+### 🎗️ Breast Cancer Prediction using ML
+- Compared Linear Regression, Ridge, Lasso, KNN  
+- Performed preprocessing & model evaluation  
+
+### 📸 Smart Attendance System
+- Face recognition using OpenCV  
+- Real-time attendance automation  
+
+### 📰 News Aggregator (NewsAPI)
+- Console-based Python application  
+- Real-time topic-based news fetching  
+
+## 🏆 Achievements
+
+- 🥇 Top 50 – National Entrepreneurship Challenge (IIT Bombay)  
+- 📄 Research Paper Presented – NCEPST 2025  
+- 🎨 State-Level Painting Selection  
+
+## 📫 Connect With Me
+
+LinkedIn: www.linkedin.com/in/priyanshi-nahar-503568274  
+Email: priyanshinahar13@gmail.com  
+
+⭐ "Building technology that thinks, learns, and secures the future."
+
