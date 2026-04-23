@@ -1,6 +1,6 @@
 # Hi, I'm Priyanshi Nahar 
 
-🎓 B.Tech CSE (3rd Year) | CGPA: 9.49  
+🎓 B.Tech CSE (3rd Year) | CGPA: 9.56 
 🔐 AI for Cybersecurity Researcher | NCEPST 2025  
 🤖 AI/ML | Data Science | Computer Vision | LLM Enthusiast  
 
