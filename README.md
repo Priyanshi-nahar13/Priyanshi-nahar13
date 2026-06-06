@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Priyanshi%20Nahar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Final%20Year%20CSE&descSize=18&descAlignY=58&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Priyanshi%20Nahar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20CV%20Researcher%20%7C%20Final%20Year%20CSE&descSize=18&descAlignY=58&animation=twinkling" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -34,7 +34,8 @@ priyanshi = {
     "research"   : "ML-Based Anomaly Detection in Network Traffic (STM Journal)",
     "certifiedBy": ["Anthropic (AI & MCP, AI Core)", "Microsoft", "Cisco", "Infosys"],
     "building"   : "AI systems that think, adapt, and secure 🔐",
-    "open_to"    : ["MNC Placements 2027", "Research Collaborations", "Freelance AI/ML Projects"],
+    "open_to"    : ["MNC Placements 2027", "Research Collaborations", "Freelance AI/CV Projects"],
+    "quote"      : "Code is craft. AI is the canvas. 🎨"
 }
 ```
 
@@ -119,29 +120,10 @@ priyanshi = {
 
 ---
 
-## 📂 Featured Projects
+## 📂 My Work
 
-### 🤖 RCEW AI Chatbot  
-`Python` `Streamlit` `NLP` `REST APIs`  
-> Deployed NLP chatbot serving **1,000+ queries** with <2s response time and **85–90% accuracy** — reduced manual query handling by ~60%. Built scalable modular REST API backend with session management and graceful fallback handling.
-
----
-
-### 🦾 Human Pose Detection System  
-`Python` `OpenCV` `MediaPipe` `NumPy`  
-> Real-time CV pipeline tracking **15+ body keypoints** at **20–30 FPS**, ~90% accuracy. Latency reduced by ~25%. Applicable to ergonomics and operator safety monitoring.
-
----
-
-### 🏠 Voice-Controlled Home Automation  
-`Python` `Raspberry Pi` `GPIO` `IoT` `Google Speech API`  
-> Built real-time embedded AI system with **<1s command-to-action latency** controlling **6+ simultaneous devices**. Modular relay architecture for end-to-end AI + IoT deployment.
-
----
-
-### 🔐 ML-Based Network Anomaly Detection *(Research)*  
-`Python` `scikit-learn` `Feature Engineering` `Classification`  
-> Designed ML models for real-time network traffic anomaly detection. **Accepted at NCEPST 2025** national conference and selected for **peer-reviewed STM Journal publication**.
+> 💡 From AI systems and Computer Vision pipelines to creative event & birthday websites — I love building things that are both intelligent and delightful.  
+> 🔽 **Explore all my projects in the pinned repositories below** — live demos, source code, and full READMEs await!
 
 ---
 
@@ -152,7 +134,8 @@ priyanshi = {
 | 🥇 **Top 50 Nationally** | NEC, IIT Bombay 2023 — innovative startup concept & execution |
 | 📄 **Published Researcher** | STM Journal — ML for Cybersecurity |
 | 🎙️ **NCEPST 2025 Presenter** | National Conference on Engineering & Science |
-| 🖥️ **Odoo ERP Hackathon** | Enterprise software systems — large-scale dev experience |
+| 💻 **Multiple Hackathons** | Participated in several national-level hackathons including enterprise & AI domains |
+| 🎨 **Creative Web Projects** | Built event & birthday websites (HTML/CSS/JS) — showcased in pinned repos |
 | 📣 **PR Head, E-Cell RCEW** | Led event promos, social media & entrepreneurial product launches |
 | 🌐 **Student Council & Web Team** | Events, hackathons, logistics, sponsorships & college website |
 
@@ -164,7 +147,7 @@ priyanshi = {
 |---|---|
 | 🟣 **Anthropic** | AI & MCP (Model Context Protocol) · AI Fundamentals & Frameworks · AI Core |
 | 🔵 **Microsoft** | Data Analysis |
-| 🔵 **Cisco** | Data Science with Python |
+| 🔵 **Cisco** | Cybersecurity · Data Science with Python |
 | 🟠 **Infosys Springboard** | C Programming |
 | 🟢 **Edunet / AICTE** | AI & ML with Python (Government-backed) |
 | 🔴 **Torr Lab** | AI & ML Industrial Training |
@@ -175,12 +158,12 @@ priyanshi = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=priyanshi-nahar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshi-nahar&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Priyanshi-nahar13&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshi-nahar13&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshi-nahar&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshi-nahar13&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
