@@ -34,8 +34,7 @@ priyanshi = {
     "research"   : "ML-Based Anomaly Detection in Network Traffic (STM Journal)",
     "certifiedBy": ["Anthropic (AI & MCP, AI Core)", "Microsoft", "Cisco", "Infosys"],
     "building"   : "AI systems that think, adapt, and secure 🔐",
-    "open_to"    : ["MNC Placements 2027", "Research Collaborations", "Freelance AI/CV Projects"],
-    "quote"      : "Code is craft. AI is the canvas. 🎨"
+    "open_to"    : ["MNC Placements 2027", "Research Collaborations", "Freelance AI/ML Projects"],
 }
 ```
 
